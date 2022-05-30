@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuthorLex
 - 👀 I’m interested in achieving employment success
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything really
+- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me : pm
 
 <!---
